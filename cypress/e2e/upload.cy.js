@@ -1,5 +1,5 @@
-describe('template spec', () => {
-  it('passes', () => {
+describe('Orange HRM upload', () => {
+  it.only('passes', () => {
     cy.visit('/auth/login')
     cy.get("[name='username']").type('Admin')
     cy.get("[type='password']").type('admin123')
