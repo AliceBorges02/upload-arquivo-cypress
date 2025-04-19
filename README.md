@@ -1,0 +1,1 @@
+# Automacao v1 para upload de arquivos
